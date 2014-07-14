@@ -24,7 +24,7 @@ Such meanings effectively and precisely capture the essence of a library's inten
 By doing so, these meanings offer library users a simpler but precise understanding of a library, while giving library developers an unambiguous definition of exactly *what* specification they must implement, while leaving a great deal of room for creativity about *how*.
 I call this methodology "Denotational Design", because it is design focused on meaning (denotation).
 
-The talk and workshop will present the principles and practice of Denotational Design through examples.
+The talk will present the principles and practice of Denotational Design through examples.
 I will use Haskell, where purity and type classes are especially useful to guide the process.
 Once understood, the techniques are transferable to other functional languages as well.
 If you'd like a sneak peak, see the paper [*Denotational design with type class morphisms*](http://conal.net/papers/type-class-morphisms/) and some [related blog articles](http://conal.net/blog/tag/type-class-morphism).
