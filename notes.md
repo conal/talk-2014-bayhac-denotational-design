@@ -20,7 +20,7 @@ Some thoughts on my denotational design talk from last week:
 
 Most programming puts how before the what.
 For me, the essence of functional programming is as a clear and precise illuminating language with which explore the what.
-Insert Edster Dykstras quotes about computer science and telescopes.
+Insert Dykstra quoted about computer science and telescopes.
 However, even functional programming can be used in a way that focuses on how and neglects what.
 How can we be more clear about what?
 I don't think the answer is to be found in software engineering, which places software as a primary artifact.
