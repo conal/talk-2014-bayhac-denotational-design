@@ -1,4 +1,4 @@
-## Talk: *Denotational Design: from programs to meanings*
+## Talk: *Denotational Design: from meanings to programs*
 
 Given at [BayHac 2014](http://www.haskell.org/haskellwiki/BayHac2014).
 
