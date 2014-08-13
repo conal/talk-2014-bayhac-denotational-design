@@ -57,3 +57,4 @@ Some follow-up remarks, based on questions & discussion during and after the tal
     For instance, slowly-changing signals can be sampled (discretized for output) less frequently than rapidly-changing signals.
     In contrast, discrete-time systems prematurely (and often arbitrarily) commit to sampling rates before knowing and usually a single sampling rate.
     Uniform rates waste computation for some signals while under-sampling others.
+*   See also [*Why program with continuous time?*](http://conal.net/blog/posts/why-program-with-continuous-time)
