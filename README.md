@@ -4,6 +4,12 @@ Given at [BayHac 2014](http://www.haskell.org/haskellwiki/BayHac2014).
 
 [Slides PDF](http://conal.net/talks/bayhac-2014.pdf).
 
+Video parts
+[1](https://www.youtube.com/watch?v=zzCrZEil9iI),
+[2](https://www.youtube.com/watch?v=wSzrK7dloeI),
+[3](https://www.youtube.com/watch?v=Qq4sh7scR_Q),
+[4](https://www.youtube.com/watch?v=Hp3v28ws1ps).
+
 ### Abstract
 
 In this talk, I'll share a methodology that I have applied many times over the last 20+ years when designing high-level libraries for functional programming.
