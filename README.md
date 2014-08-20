@@ -10,6 +10,8 @@ Video parts
 [3](https://www.youtube.com/watch?v=Qq4sh7scR_Q),
 [4](https://www.youtube.com/watch?v=Hp3v28ws1ps).
 
+[Reddit discussion](http://www.reddit.com/r/haskell/comments/2dh0sd/denotational_design_from_meanings_to_programs_by/)
+
 ### Abstract
 
 In this talk, I'll share a methodology that I have applied many times over the last 20+ years when designing high-level libraries for functional programming.
