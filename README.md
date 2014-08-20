@@ -2,15 +2,11 @@
 
 Given at [BayHac 2014](http://www.haskell.org/haskellwiki/BayHac2014).
 
-[Slides PDF](http://conal.net/talks/bayhac-2014.pdf).
+See also:
 
-Video parts
-[1](https://www.youtube.com/watch?v=zzCrZEil9iI),
-[2](https://www.youtube.com/watch?v=wSzrK7dloeI),
-[3](https://www.youtube.com/watch?v=Qq4sh7scR_Q),
-[4](https://www.youtube.com/watch?v=Hp3v28ws1ps).
-
-[Reddit discussion](http://www.reddit.com/r/haskell/comments/2dh0sd/denotational_design_from_meanings_to_programs_by/)
+*   [Slides PDF](http://conal.net/talks/bayhac-2014.pdf).
+*   Video parts [1](https://www.youtube.com/watch?v=zzCrZEil9iI), [2](https://www.youtube.com/watch?v=wSzrK7dloeI), [3](https://www.youtube.com/watch?v=Qq4sh7scR_Q), [4](https://www.youtube.com/watch?v=Hp3v28ws1ps).
+*   [Reddit discussion](http://www.reddit.com/r/haskell/comments/2dh0sd/denotational_design_from_meanings_to_programs_by/).
 
 ### Abstract
 
