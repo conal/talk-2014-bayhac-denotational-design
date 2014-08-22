@@ -7,6 +7,7 @@ See also:
 *   [Slides PDF](http://conal.net/talks/bayhac-2014.pdf).
 *   Video parts [1](https://www.youtube.com/watch?v=zzCrZEil9iI), [2](https://www.youtube.com/watch?v=wSzrK7dloeI), [3](https://www.youtube.com/watch?v=Qq4sh7scR_Q), [4](https://www.youtube.com/watch?v=Hp3v28ws1ps).
 *   [Reddit discussion](http://www.reddit.com/r/haskell/comments/2dh0sd/denotational_design_from_meanings_to_programs_by/).
+*   [Extended (2.5-hour) LambdaJam version](https://github.com/conal/talk-2014-lambdajam-denotational-design) focusing on different examples.
 
 ### Abstract
 
