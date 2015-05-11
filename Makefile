@@ -35,7 +35,7 @@ STASH=conal@conal.net:/home/conal/web/talks
 web: web-token
 
 web-token: $(TARG).pdf
-	scp $? $(STASH)/
+	scp $? $(STASH)/denotational-design-bayhac-2014.pdf
 	touch $@
 
 #  $(TARG).lhs HScan.lhs
